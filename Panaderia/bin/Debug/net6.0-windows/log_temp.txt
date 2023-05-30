@@ -1,0 +1,14 @@
+Barra Pan 0.9€ ;0;
+Barra Pan 0.6€ ;0;
+Barra Pan 1€ ;0;
+Bolleria 1.20€ ;0;
+Bolleria 1.50€ ;0;
+Bolleria 1.70€ ;0;
+Bolleria 2€ ;0;
+Bolleria 2.50€ ;0;
+Barra Pan 1.8€ ;0;
+Patatas Fritas 2€ ;0;
+Frutos Secos 2.5€ ;0;
+Latas Refresco 1€ ;0;
+Lata Cerveza 1€ ;0;
+Litro Cerveza 2€ ;0;
